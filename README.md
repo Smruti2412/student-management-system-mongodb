@@ -154,8 +154,8 @@ Student-Management-System/
 
 ## 👨‍💻 Developed By
 
-**Pranav Ganesh Lohar**  
-BSc IT Student  
+**Smruti Ganesh Lohar**  
+MSc IT Student  
 Guru Nanak Khalsa College  
 
 ---
