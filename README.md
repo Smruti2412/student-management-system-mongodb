@@ -115,8 +115,15 @@ python login.py
 ```
 
 ---
+
+Screenshot of GUI 
+Dashboard page
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/b17bbddc-b3d1-4cf3-b6bc-85dce0b1376e" />
 
+Login page
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/2b232cc9-51ea-4b44-bb03-b2965a8ecce9" />
+
+---
 
 ## 📂 Project Structure
 
