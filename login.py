@@ -148,10 +148,11 @@ modern_button(card, "Login", login)
 # ================= FOOTER =================
 tk.Label(
     root,
-    text="© 2026 Student Management System | Developed by Pranav Lohar",
+    text="© 2026 Student Management System | Developed by Smruti Lohar",
     bg="#0f172a",
     fg="#94a3b8",
     font=("Segoe UI", 11)   # Increased
 ).pack(side="bottom", pady=20)
+
 
 root.mainloop()
